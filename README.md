@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App (Not Finished)
 This is an exercise to learn how to work with ReactJs and APIs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
